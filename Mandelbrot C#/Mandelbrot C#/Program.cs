@@ -8,7 +8,7 @@ namespace Mandelbrot_C_
         [STAThread]
         static void Main()
         {
-           whfpajwopfjwoafjawopjpjopf 
+          
         }
     }
 
